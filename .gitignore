@@ -436,3 +436,5 @@ ipython_config.py
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,csharp,dotnetcore,visualstudiocode
+
+!3\.\ agents/azure-function/local.settings.json
