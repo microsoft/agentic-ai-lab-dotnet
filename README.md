@@ -156,7 +156,7 @@ Follow this structured learning path to master Azure AI Foundry:
 | 🌐 [Bing Grounding](3.%20agents/4-bing_grounding.ipynb) | Web search integration |
 | 🔍 [Agents + AI Search](3.%20agents/5-agents-aisearch.ipynb) | Enterprise search integration |
 | ⚡ [Agents + Azure Functions](3.%20agents/6-agents-az-functions.ipynb) | Serverless integration |
-| 👥 [Multi-Agent Solution](3.%20agents/7-multi-agent-solution.ipynb) | Collaborative AI systems |
+| 👥 [Multi-Agent Solution](3.%20agents/multi-agent-solution.ipynb) | Collaborative AI systems |
 
 ### 🔌 Phase 4: Model Context Protocol (MCP) Integration
 **Location:** `4. agents-with-mcp/`
@@ -165,7 +165,7 @@ Follow this structured learning path to master Azure AI Foundry:
 |----------|-------------|
 | 🔌 [MCP Inventory Agent](4.%20agents-with-mcp/README.md) | Complete working implementation of agents that connect to MCP servers for dynamic tool discovery. Features an intelligent inventory management agent for a cosmetics retailer with automated restock and clearance recommendations. Includes both client and server implementations with interactive chat interface. |
 
-### 🔴 Phase 5: AI Red Teaming & Security Testing
+### 🔴 Phase 5: AI Red Teaming & Security Testing (Coming Soon)
 **Location:** `5. ai-red-teaming-agent/`
 
 | Implementation | Description |
@@ -177,7 +177,7 @@ Follow this structured learning path to master Azure AI Foundry:
 
 The **Microsoft Agent Framework** is an open-source development kit that unifies and extends Semantic Kernel and AutoGen into the next-generation foundation for AI agent development. Built by the same teams, it offers two primary capabilities: **AI Agents** for autonomous decision-making with tool integration and conversation management, and **Workflows** for orchestrating complex multi-agent processes with type safety and checkpointing. Currently in public preview, it combines AutoGen's simple abstractions with Semantic Kernel's enterprise features while adding robust workflow capabilities.
 
-📖 [Official Documentation](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview) • 🔗 [GitHub Repository](https://github.com/microsoft/agent-framework) • 📚 [Complete Guide](agent-framework/README.md)
+📖 [Official Documentation](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview) • 🔗 [GitHub Repository](https://github.com/microsoft/agent-framework) • 📚 [Complete Guide](6.%20agent-framework/README.md)
 
 #### 🤖 Azure AI Agents (`agents/azure_ai_agents/`)
 | Notebook | Description |
@@ -245,7 +245,7 @@ The **Microsoft Agent Framework** is an open-source development kit that unifies
 | 🌐 [In-Memory Mode](6.%20agent-framework/devui/in_memory_mode.py) | Quick-start web interface for testing agents |
 | 📁 [Sample Agents](6.%20agent-framework/devui/) | Pre-built examples: Foundry agent, weather agent, spam workflow, fanout workflow |
 
-### 📊 Phase 7: Quality & Operations
+### 📊 Phase 7: Quality & Operations (Coming Soon)
 **Location:** `7. observability-and-evaluations/`
 
 | Notebook | Description |
@@ -253,14 +253,14 @@ The **Microsoft Agent Framework** is an open-source development kit that unifies
 | 👁️ [Observability](7.%20observability-and-evaluations/1-Observability.ipynb) | Monitoring and telemetry |
 | 📈 [Evaluation](7.%20observability-and-evaluations/2-evaluation.ipynb) | Quality assessment and benchmarking |
 
-### 🗣️ Phase 8: AI Language Services with Low-Code Workflows
+### 🗣️ Phase 8: AI Language Services with Low-Code Workflows (Coming Soon)
 **Location:** `8. ai-language/`
 
 | Implementation | Description |
 |----------|-------------|
 | 🔤 [AI Language Service Lab](8.%20ai-language/README.md) | Low-code Logic Apps for PII removal, language detection, and translation. Build workflow solutions for processing multilingual customer feedback with privacy compliance and centralized analytics. |
 
-### 👁️ Phase 9: AI Vision Services with Low-Code Solutions  
+### 👁️ Phase 9: AI Vision Services with Low-Code Solutions (Coming Soon)
 **Location:** `9. ai-vision/`
 
 | Implementation | Description |
@@ -268,7 +268,7 @@ The **Microsoft Agent Framework** is an open-source development kit that unifies
 | 👀 [AI Vision Lab Guide](9.%20ai-vision/README.md) | Azure AI Vision low-code exercises including OCR, face detection, image analysis, and video indexing using Vision Studio |
 | 📓 [AI Vision Services Notebook](9.%20ai-vision/LabFiles/AI_vision_services_lab.ipynb) | Hands-on Jupyter notebook for computer vision capabilities |
 
-### 📄 Phase 10: Content Understanding & Document Classification
+### 📄 Phase 10: Content Understanding & Document Classification (Coming Soon)
 **Location:** `10. content-understanding/`
 
 | Implementation | Description |
@@ -278,7 +278,7 @@ The **Microsoft Agent Framework** is an open-source development kit that unifies
 | 🐍 [Content Understanding Client](10.%20content-understanding/content_understanding_client.py) | Python client implementation for Azure AI Content Understanding API |
 | 📋 [Sample Data](10.%20content-understanding/Data/) | Sample PDF documents for testing classification and extraction workflows |
 
-### 🛡️ Phase 11: Responsible AI & Content Safety
+### 🛡️ Phase 11: Responsible AI & Content Safety (Coming Soon)
 **Location:** `11. responsible-ai/`
 
 | Implementation | Description |
