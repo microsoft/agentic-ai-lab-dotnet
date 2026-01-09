@@ -440,3 +440,5 @@ ipython_config.py
 !3\.\ agents/azure-function/local.settings.json
 
 .env
+
+.idea/
