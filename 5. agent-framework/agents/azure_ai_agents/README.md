@@ -68,6 +68,10 @@ This folder contains examples demonstrating different ways to create and use age
 
 2. **Install Polyglot Notebooks Extension**: Install the [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension in VS Code.
 
+You might need to swap to the "Pre-Release" version in order to run these notebooks. Validate that you are on version `1.0.6617031` or greater:
+
+![Polyglot Extension Screenshot](../../../images/polyglot-notebooks-extension.png)
+
 3. **Install NuGet Packages**: The notebooks will install the required packages automatically, but you can also install them manually:
 
    **Full Framework** - Install the entire framework with all integrations (simplest approach):
